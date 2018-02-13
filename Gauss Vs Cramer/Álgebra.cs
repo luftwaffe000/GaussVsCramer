@@ -90,7 +90,7 @@ namespace Álgebra
         public static implicit operator Quebrado(float x)
         {
 
-        }
+        }j
         */
 
         public override string ToString()
